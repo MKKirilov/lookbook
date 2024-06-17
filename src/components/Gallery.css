@@ -1,0 +1,14 @@
+.galleryCSS{
+    display: grid;
+    justify-items: center;
+}
+.galleryImages{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    /* justify-items: center; */
+}
+
+.pics{
+    border: 3px solid crimson;
+    padding-bottom: 0vw;
+}
